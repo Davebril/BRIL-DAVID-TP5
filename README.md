@@ -1,4 +1,4 @@
-# rgb-guess
+# the great
 
 ## Project setup
 ```
